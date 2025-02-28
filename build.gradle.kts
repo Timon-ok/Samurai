@@ -24,13 +24,13 @@ dependencies {
     implementation ("com.badlogicgames.gdx:gdx-backend-lwjgl3:${gdxVersion}") // Desktop (LWJGL3)
     implementation ("com.badlogicgames.gdx:gdx-platform:${gdxVersion}:natives-desktop")
 
-    implementation ("com.badlogicgames.gdx:gdx-backend-android:${gdxVersion}") // Android
-    implementation ("com.badlogicgames.gdx:gdx-platform:${gdxVersion}:natives-armeabi-v7a")
-    implementation ("com.badlogicgames.gdx:gdx-platform:${gdxVersion}:natives-arm64-v8a")
-    implementation ("com.badlogicgames.gdx:gdx-platform:${gdxVersion}:natives-x86")
+    // implementation ("com.badlogicgames.gdx:gdx-backend-android:${gdxVersion}") // Android
+    // implementation ("com.badlogicgames.gdx:gdx-platform:${gdxVersion}:natives-armeabi-v7a")
+    // implementation ("com.badlogicgames.gdx:gdx-platform:${gdxVersion}:natives-arm64-v8a")
+    // implementation ("com.badlogicgames.gdx:gdx-platform:${gdxVersion}:natives-x86")
 
-    implementation ("com.badlogicgames.gdx:gdx-backend-ios:${gdxVersion}") // iOS
-    implementation ("com.badlogicgames.gdx:gdx-platform:${gdxVersion}:natives-ios")
+    // implementation ("com.badlogicgames.gdx:gdx-backend-ios:${gdxVersion}") // iOS
+    // implementation ("com.badlogicgames.gdx:gdx-platform:${gdxVersion}:natives-ios")
 
     // implementation ("com.badlogicgames.gdx:gdx-backend-gwt:${gdxVersion}") // HTML5 (GWT)
 
